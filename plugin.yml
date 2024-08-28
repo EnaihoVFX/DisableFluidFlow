@@ -1,0 +1,7 @@
+---
+name: DisableFluidFlow
+version: 0.0.1
+main: _4ulag\LagReduce\Main
+api: 5.18.0
+src-namespace-prefix: _4ulag\LagReduce
+...
